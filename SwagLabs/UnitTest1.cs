@@ -26,6 +26,7 @@ namespace SwagLabs
         [TestCategory("log4Net")]
         public void TestMethod002()
         {
+            //This is a test method
             IWebDriver driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
             driver.Url = "https://www.saucedemo.com/";
