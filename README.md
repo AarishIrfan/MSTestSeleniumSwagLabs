@@ -1,0 +1,1 @@
+SwagsLabs Automated Demo is a project showcasing automation testing on the Sauce Labs demo website [https://www.saucedemo.com/](https://www.saucedemo.com/). This project demonstrates how to automate interactions with the demo website using a testing framework.
