@@ -1,11 +1,11 @@
 
 # MSTestSeleniumSwagLabs
 
-Description
+## Description
 
 This repository contains automated test scripts for the Swag Labs e-commerce website. Built using MSTest and Selenium WebDriver, these tests validate core functionalities such as user login, product sorting, and the checkout process.
 
-Features
+## Features
 
 - Automated user login tests
 - Validation of product sorting
@@ -30,6 +30,3 @@ Features
 2. Build the solution.
 3. Run the tests using the Test Explorer in Visual Studio.
 
----
-
-Feel free to modify or add any additional details you think are necessary!
