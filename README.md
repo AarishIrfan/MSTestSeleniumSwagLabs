@@ -1,32 +1,35 @@
-MSTestSeleniumSwagLabs
+
+# MSTestSeleniumSwagLabs
 
 Description
+
 This repository contains automated test scripts for the Swag Labs e-commerce website. Built using MSTest and Selenium WebDriver, these tests validate core functionalities such as user login, product sorting, and the checkout process.
 
 Features
-Automated user login tests
-Validation of product sorting
-Verification of checkout process
-Requirements
-.NET Framework
-MSTest
-Selenium WebDriver
-ChromeDriver
-Installation
-Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/yourusername/MSTestSeleniumSwagLabs.git
-Navigate to the Project Directory
+- Automated user login tests
+- Validation of product sorting
+- Verification of checkout process
 
-bash
-Copy code
-cd MSTestSeleniumSwagLabs
-Install Dependencies
-Use NuGet in Visual Studio to install the required packages.
+## Requirements
 
-Usage
-Open the Project in Visual Studio
-Build the Solution
-Run the Tests using the Test Explorer in Visual Studio.
+- .NET Framework
+- MSTest
+- Selenium WebDriver
+- ChromeDriver
+
+## Installation
+
+1. Clone the repository from GitHub.
+2. Navigate to the project directory.
+3. Install the required packages using NuGet in Visual Studio.
+
+## Usage
+
+1. Open the project in Visual Studio.
+2. Build the solution.
+3. Run the tests using the Test Explorer in Visual Studio.
+
+---
+
+Feel free to modify or add any additional details you think are necessary!
